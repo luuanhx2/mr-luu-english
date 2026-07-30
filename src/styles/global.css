@@ -1,0 +1,121 @@
+/* ============================================================
+   BẢNG MÀU & BIẾN THIẾT KẾ (design tokens)
+   Đổi màu toàn app chỉ bằng cách sửa các giá trị bên dưới.
+   ============================================================ */
+:root {
+  /* Header gradient: navy đậm -> teal */
+  --navy: #0f2544;
+  --navy-deep: #0a1a33;
+  --teal: #14b8a6;
+
+  /* Tím indigo: nút, số câu, tiêu đề Part */
+  --indigo: #4f46e5;
+  --indigo-dark: #4338ca;
+  --indigo-darker: #3730a3;
+
+  /* Vàng gold: nhấn tên thương hiệu, viền logo */
+  --gold: #f5c451;
+
+  /* Nền & card */
+  --cream: #faf8f3;         /* nền nội dung chính (kem) */
+  --card-white: #ffffff;
+  --lavender: #eef0ff;      /* card phụ tím nhạt */
+  --lavender-deep: #e0e3ff;
+  --lavender-text: #4f46e5;
+
+  /* Trạng thái câu hỏi */
+  --answered: #22c55e;
+  --answered-bg: #dcfce7;
+  --flagged: #f97316;
+  --flagged-bg: #ffedd5;
+  --unanswered: #cbd5e1;
+  --unanswered-bg: #f1f5f9;
+
+  /* Chữ */
+  --ink: #1e293b;
+  --ink-soft: #64748b;
+  --ink-faint: #94a3b8;
+
+  /* Bo góc & bóng */
+  --radius: 16px;
+  --radius-sm: 10px;
+  --radius-lg: 22px;
+  --shadow-sm: 0 1px 3px rgba(15, 37, 68, 0.06), 0 1px 2px rgba(15, 37, 68, 0.04);
+  --shadow: 0 4px 16px rgba(15, 37, 68, 0.08);
+  --shadow-lg: 0 12px 40px rgba(15, 37, 68, 0.14);
+
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body, #root { height: 100%; }
+
+body {
+  font-family: var(--font-body);
+  color: var(--ink);
+  background: var(--cream);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+button { font-family: inherit; cursor: pointer; border: none; background: none; }
+input, select { font-family: inherit; }
+a { color: inherit; text-decoration: none; }
+
+/* ---- Tiện ích chung ---- */
+.app-shell { min-height: 100%; display: flex; flex-direction: column; }
+
+.btn-primary {
+  background: var(--indigo);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 700;
+  border-radius: var(--radius-sm);
+  padding: 14px 22px;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  transition: transform 0.12s ease, background 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.28);
+}
+.btn-primary:hover { background: var(--indigo-dark); transform: translateY(-1px); }
+.btn-primary:active { transform: translateY(0); }
+.btn-primary:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+.btn-ghost {
+  background: #fff;
+  color: var(--indigo);
+  border: 1.5px solid var(--lavender-deep);
+  border-radius: var(--radius-sm);
+  padding: 11px 18px;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.15s ease;
+}
+.btn-ghost:hover { border-color: var(--indigo); background: var(--lavender); }
+
+.pill {
+  display: inline-flex; align-items: center;
+  padding: 5px 13px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.pill-lavender { background: var(--lavender); color: var(--lavender-text); }
+.pill-outline { background: #fff; border: 1.5px solid var(--lavender-deep); color: var(--indigo); }
+
+.card {
+  background: var(--card-white);
+  border: 1px solid #eceef4;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Focus rõ ràng cho bàn phím (accessibility) */
+:focus-visible { outline: 3px solid rgba(79,70,229,0.4); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

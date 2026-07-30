@@ -1,0 +1,33 @@
+/* ============================================================
+   RESPONSIVE — điện thoại & máy tính bảng
+   Trên màn hình hẹp: bỏ layout 2 cột, sidebar chuyển xuống dưới.
+   ============================================================ */
+
+@media (max-width: 860px) {
+  .exam-grid {
+    grid-template-columns: 1fr !important;
+  }
+  /* Sidebar hết sticky, nằm dưới nội dung, thứ tự tự nhiên */
+  .exam-sidebar {
+    position: static !important;
+    order: -1;               /* đưa thông tin + timer + submit lên đầu cho dễ thấy */
+  }
+  /* Trên điện thoại, lưới câu hỏi vẫn hiện nhưng gọn */
+  .exam-sidebar .card { box-shadow: var(--shadow-sm); }
+}
+
+/* Part 5 (matching): trên điện thoại, bảng đáp án xuống trên đầu */
+@media (max-width: 680px) {
+  .matching-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .matching-legend {
+    position: static !important;
+    order: -1;
+  }
+}
+
+/* Điện thoại nhỏ: header xuống dòng gọn gàng */
+@media (max-width: 480px) {
+  header { padding: 12px 16px !important; }
+}

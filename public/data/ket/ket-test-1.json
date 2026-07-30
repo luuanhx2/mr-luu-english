@@ -1,0 +1,244 @@
+{
+  "id": "ket-test-1",
+  "level": "KET",
+  "title": "Test 1",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test1-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "type": "multiple_choice_image",
+          "question": "Where's the girl going this afternoon?",
+          "imageUrl": "images/ket/ket-test1-q1.jpeg",
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 2,
+          "type": "multiple_choice_image",
+          "question": "Which is the boy's new desk?",
+          "imageUrl": "images/ket/ket-test1-q2.jpeg",
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 3,
+          "type": "multiple_choice_image",
+          "question": "How will they get to their tennis class?",
+          "imageUrl": "images/ket/ket-test1-q3.jpeg",
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 4,
+          "type": "multiple_choice_image",
+          "question": "Which woman is Laura's new English teacher?",
+          "imageUrl": "images/ket/ket-test1-q4.jpeg",
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 5,
+          "type": "multiple_choice_image",
+          "question": "What might Harry do if it rains on Saturday?",
+          "imageUrl": "images/ket/ket-test1-q5.jpeg",
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test1-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a teacher talking to a class about a new music club.",
+      "formTitle": "New music club",
+      "formGiven": ["Start date: 15th September"],
+      "questions": [
+        {
+          "questionNumber": 6,
+          "type": "gap_fill",
+          "question": "Day club will meet: {}",
+          "correctAnswer": "Thursday|Thursdays"
+        },
+        {
+          "questionNumber": 7,
+          "type": "gap_fill",
+          "question": "Time: {} to 5 p.m.",
+          "correctAnswer": "4:20|4.20|twenty past four|20 past 4"
+        },
+        {
+          "questionNumber": 8,
+          "type": "gap_fill",
+          "question": "Teacher's name: Mr {}",
+          "correctAnswer": "Taylor"
+        },
+        {
+          "questionNumber": 9,
+          "type": "gap_fill",
+          "question": "Teacher's phone number: {}",
+          "correctAnswer": "0779386521"
+        },
+        {
+          "questionNumber": 10,
+          "type": "gap_fill",
+          "question": "Place: {}",
+          "correctAnswer": "library"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test1-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "You will hear Luis talking to his friend Charlotte about a computer game. For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Where did Luis first find out about the game?",
+          "options": [
+            { "key": "A", "text": "from a game website" },
+            { "key": "B", "text": "from a school friend" },
+            { "key": "C", "text": "from a magazine advertisement" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "Charlotte likes the game because",
+          "options": [
+            { "key": "A", "text": "it's funny." },
+            { "key": "B", "text": "it's hard." },
+            { "key": "C", "text": "it's new." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "Who does Luis want to play the game with?",
+          "options": [
+            { "key": "A", "text": "his brother" },
+            { "key": "B", "text": "his granddad" },
+            { "key": "C", "text": "his cousin" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "How long did Charlotte play the game for last Saturday?",
+          "options": [
+            { "key": "A", "text": "forty-five minutes" },
+            { "key": "B", "text": "one hour" },
+            { "key": "C", "text": "one hour and thirty minutes" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "Which part of the game does Luis like best?",
+          "options": [
+            { "key": "A", "text": "finding food" },
+            { "key": "B", "text": "building a hut" },
+            { "key": "C", "text": "crossing the river" }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test1-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about shopping. What did the boy buy yesterday?",
+          "options": [
+            { "key": "A", "text": "something to wear" },
+            { "key": "B", "text": "something to eat" },
+            { "key": "C", "text": "something to read" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a teacher talking to a student called Lyn. Why didn't Lyn come to school yesterday?",
+          "options": [
+            { "key": "A", "text": "She was sick." },
+            { "key": "B", "text": "She was in a competition." },
+            { "key": "C", "text": "She arrived back late from holiday." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking about surfing. How did he learn to surf?",
+          "options": [
+            { "key": "A", "text": "by doing a course" },
+            { "key": "B", "text": "by watching videos" },
+            { "key": "C", "text": "by practising by himself" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about her day at school. Which subject did she like best?",
+          "options": [
+            { "key": "A", "text": "geography" },
+            { "key": "B", "text": "English" },
+            { "key": "C", "text": "biology" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear two brothers talking about last night. Why did they both sleep badly?",
+          "options": [
+            { "key": "A", "text": "Their bedroom was hot." },
+            { "key": "B", "text": "There were noises in the street." },
+            { "key": "C", "text": "They were excited about going on holiday." }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test1-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear Lucas talking to his mum about the jobs his friends want to do. What job does each friend want to do?",
+      "example": "Lucas → F (pilot)",
+      "matchOptions": [
+        { "key": "A", "text": "actor" },
+        { "key": "B", "text": "coach" },
+        { "key": "C", "text": "dentist" },
+        { "key": "D", "text": "journalist" },
+        { "key": "E", "text": "mechanic" },
+        { "key": "F", "text": "pilot" },
+        { "key": "G", "text": "receptionist" },
+        { "key": "H", "text": "tour guide" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Tyler", "correctAnswer": "C" },
+        { "questionNumber": 22, "type": "matching", "question": "Ava", "correctAnswer": "H" },
+        { "questionNumber": 23, "type": "matching", "question": "Mark", "correctAnswer": "E" },
+        { "questionNumber": 24, "type": "matching", "question": "Victoria", "correctAnswer": "D" },
+        { "questionNumber": 25, "type": "matching", "question": "Bobby", "correctAnswer": "A" }
+      ]
+    }
+  ]
+}
