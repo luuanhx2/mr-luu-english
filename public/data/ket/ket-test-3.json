@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-3",
+  "level": "KET",
+  "title": "Test 3",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test3-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "What time does the nature programme start?", "imageUrl": "images/ket/ket-test3-q1.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Who is Diana talking to on her mobile?", "imageUrl": "images/ket/ket-test3-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Where will Henry put his mum's watch?", "imageUrl": "images/ket/ket-test3-q3.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Why is the girl tired?", "imageUrl": "images/ket/ket-test3-q4.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What will the weather be like?", "imageUrl": "images/ket/ket-test3-q5.jpeg", "correctAnswer": "A" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test3-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a boy leaving a message for a friend about a football match.",
+      "formTitle": "Football match",
+      "formGiven": ["Day: Saturday"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Name of stadium: {}", "correctAnswer": "Bridge" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Bus number: {}", "correctAnswer": "395" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Cost of ticket: £ {}", "correctAnswer": "4.50|4:50" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Wear: {}", "correctAnswer": "coat" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Bring: {}", "correctAnswer": "snack" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test3-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Hitomi talking to her friend Freddie about her visit to Hardin Castle.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Who did Hitomi go to Hardin Castle with?",
+          "options": [
+            { "key": "A", "text": "her classmates" },
+            { "key": "B", "text": "her family" },
+            { "key": "C", "text": "her neighbours" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "What was the weather like?",
+          "options": [
+            { "key": "A", "text": "cold" },
+            { "key": "B", "text": "wet" },
+            { "key": "C", "text": "windy" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "What do Hitomi and Freddie both like best at Hardin Castle?",
+          "options": [
+            { "key": "A", "text": "the Queen's bathroom" },
+            { "key": "B", "text": "the yellow bedroom" },
+            { "key": "C", "text": "the dining room" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "Freddie went to the castle because he wanted",
+          "options": [
+            { "key": "A", "text": "to learn about history." },
+            { "key": "B", "text": "to take photos." },
+            { "key": "C", "text": "to find out about birds." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "What's on at the castle next month?",
+          "options": [
+            { "key": "A", "text": "a running race" },
+            { "key": "B", "text": "an exhibition of old cars" },
+            { "key": "C", "text": "a painting course" }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test3-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about a video. Which part of the video didn't she understand?",
+          "options": [
+            { "key": "A", "text": "the beginning" },
+            { "key": "B", "text": "the middle" },
+            { "key": "C", "text": "the end" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a concert. What's the boy's opinion of the concert?",
+          "options": [
+            { "key": "A", "text": "It was boring." },
+            { "key": "B", "text": "It was terrible." },
+            { "key": "C", "text": "It was unusual." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking to his dad about going to the city centre. Why are they going to the city centre?",
+          "options": [
+            { "key": "A", "text": "to meet someone" },
+            { "key": "B", "text": "to buy something" },
+            { "key": "C", "text": "to watch something" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a teacher talking to his class. What information is he giving his students?",
+          "options": [
+            { "key": "A", "text": "They're going to start a new project." },
+            { "key": "B", "text": "They're going to have their lesson outside." },
+            { "key": "C", "text": "They're going to have a longer lesson." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking about his sister, Emma. Who has Emma married?",
+          "options": [
+            { "key": "A", "text": "an artist" },
+            { "key": "B", "text": "a tour guide" },
+            { "key": "C", "text": "a cook" }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test3-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear Angela talking to her uncle about the problems with her old school. What problem was there in each place in the school?",
+      "example": "hall → F (too far)",
+      "matchOptions": [
+        { "key": "A", "text": "crowded" },
+        { "key": "B", "text": "noisy" },
+        { "key": "C", "text": "not clean" },
+        { "key": "D", "text": "not modern" },
+        { "key": "E", "text": "not useful" },
+        { "key": "F", "text": "too far" },
+        { "key": "G", "text": "too small" },
+        { "key": "H", "text": "too warm" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "cafeteria", "correctAnswer": "B" },
+        { "questionNumber": 22, "type": "matching", "question": "library", "correctAnswer": "C" },
+        { "questionNumber": 23, "type": "matching", "question": "classrooms", "correctAnswer": "D" },
+        { "questionNumber": 24, "type": "matching", "question": "lift", "correctAnswer": "E" },
+        { "questionNumber": 25, "type": "matching", "question": "office", "correctAnswer": "G" }
+      ]
+    }
+  ]
+}
