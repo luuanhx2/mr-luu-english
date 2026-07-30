@@ -1,0 +1,188 @@
+{
+  "id": "pet-test-1",
+  "level": "PET",
+  "title": "Test 1",
+  "examLabel": "B1 Preliminary · Listening",
+  "totalTimeMinutes": 35,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/pet/pet-test1-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "What is the girl going to bring for the picnic?", "imageUrl": "images/pet/pet-test1-q1.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Which activity did the boy enjoy most during his holiday?", "imageUrl": "images/pet/pet-test1-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "What homework does the girl have to do tonight?", "imageUrl": "images/pet/pet-test1-q3.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Where did the students go on their school trip?", "imageUrl": "images/pet/pet-test1-q4.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Which present has the boy already bought?", "imageUrl": "images/pet/pet-test1-q5.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 6, "type": "multiple_choice_image", "question": "Where did the boy go with his family at the weekend?", "imageUrl": "images/pet/pet-test1-q6.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 7, "type": "multiple_choice_image", "question": "How will the girl get to her friend's house?", "imageUrl": "images/pet/pet-test1-q7.jpeg", "correctAnswer": "B" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/pet/pet-test1-part2.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a film they've just seen. Why didn't the boy enjoy the film?",
+          "options": [
+            { "key": "A", "text": "It was very frightening." },
+            { "key": "B", "text": "It lasted too long." },
+            { "key": "C", "text": "It had terrible acting." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 9,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about some biology homework. The girl suggests that the boy should",
+          "options": [
+            { "key": "A", "text": "ask his teacher for help." },
+            { "key": "B", "text": "get information from the internet." },
+            { "key": "C", "text": "look in the biology textbook." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 10,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about an interview with a singer they've seen on TV. They agree that",
+          "options": [
+            { "key": "A", "text": "the singer's answers were interesting." },
+            { "key": "B", "text": "the interviewer was quite rude." },
+            { "key": "C", "text": "the questions were confusing." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl telling her friend about a diving trip. How did the girl feel about it?",
+          "options": [
+            { "key": "A", "text": "sure she will go again" },
+            { "key": "B", "text": "glad she went with a relative" },
+            { "key": "C", "text": "pleased with her diving skills" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking to a friend about basketball. The girl is trying to",
+          "options": [
+            { "key": "A", "text": "explain the rules of the game." },
+            { "key": "B", "text": "describe a game she took part in." },
+            { "key": "C", "text": "encourage the boy to start playing." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking about a trip to a city with his family. Why did the boy's family get lost?",
+          "options": [
+            { "key": "A", "text": "They couldn't understand their map." },
+            { "key": "B", "text": "Someone gave them the wrong directions." },
+            { "key": "C", "text": "The guidebook contained incorrect information." }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/pet/pet-test1-part3.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time. You will hear a student giving a review of a new video game to his class.",
+      "formTitle": "Video game review",
+      "questions": [
+        { "questionNumber": 14, "type": "gap_fill", "question": "Action takes place in: a {}", "correctAnswer": "rainforest" },
+        { "questionNumber": 15, "type": "gap_fill", "question": "Players answer questions about: {}", "correctAnswer": "insects" },
+        { "questionNumber": 16, "type": "gap_fill", "question": "Name of most difficult level of game: the {}", "correctAnswer": "monkey" },
+        { "questionNumber": 17, "type": "gap_fill", "question": "Best thing about the game: the {}", "correctAnswer": "characters" },
+        { "questionNumber": 18, "type": "gap_fill", "question": "Maximum number of players: {}", "correctAnswer": "six|6" },
+        { "questionNumber": 19, "type": "gap_fill", "question": "Website for more details: www. {} .com", "correctAnswer": "lombardio" }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/pet/pet-test1-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear an interview with a 15-year-old girl called Andrea, who plays ice hockey for her National Under-16s Team.",
+      "questions": [
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "Which sport does Andrea say she started playing first?",
+          "options": [
+            { "key": "A", "text": "football" },
+            { "key": "B", "text": "ice hockey" },
+            { "key": "C", "text": "basketball" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 21,
+          "type": "multiple_choice_text",
+          "question": "Andrea says that she first started playing ice hockey after",
+          "options": [
+            { "key": "A", "text": "watching a family member play." },
+            { "key": "B", "text": "seeing a game on television." },
+            { "key": "C", "text": "talking about it with her friends." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 22,
+          "type": "multiple_choice_text",
+          "question": "Why does Andrea think that playing against boys is important?",
+          "options": [
+            { "key": "A", "text": "It improves her own playing skills." },
+            { "key": "B", "text": "It proves there are many girls playing the sport." },
+            { "key": "C", "text": "It increases respect for female players." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 23,
+          "type": "multiple_choice_text",
+          "question": "How did Andrea feel when she was chosen for the national under-16s team?",
+          "options": [
+            { "key": "A", "text": "surprised to be asked" },
+            { "key": "B", "text": "sorry to leave her club" },
+            { "key": "C", "text": "confident in her abilities" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 24,
+          "type": "multiple_choice_text",
+          "question": "Andrea's favourite games are those which are",
+          "options": [
+            { "key": "A", "text": "easy to win." },
+            { "key": "B", "text": "shown on TV." },
+            { "key": "C", "text": "exciting to watch." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 25,
+          "type": "multiple_choice_text",
+          "question": "Andrea says that people who want to start playing ice hockey should",
+          "options": [
+            { "key": "A", "text": "find a club." },
+            { "key": "B", "text": "buy good equipment." },
+            { "key": "C", "text": "learn the rules." }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ]
+}

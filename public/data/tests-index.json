@@ -7,6 +7,13 @@
       "title": "Test 1",
       "examLabel": "A2 Key · Listening",
       "file": "data/ket/ket-test-1.json"
+    },
+    {
+      "id": "pet-test-1",
+      "level": "PET",
+      "title": "Test 1",
+      "examLabel": "B1 Preliminary · Listening",
+      "file": "data/pet/pet-test-1.json"
     }
   ]
 }
