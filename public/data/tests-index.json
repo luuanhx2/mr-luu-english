@@ -1,5 +1,5 @@
 {
-  "_huong_dan": "File này liệt kê tất cả đề thi. Mỗi khi thêm 1 đề mới, thêm 1 khối {...} vào mảng 'tests' bên dưới (nhớ dấu phẩy ngăn cách).",
+  "_huong_dan": "File này liệt kê tất cả đề thi. Mỗi khi thêm 1 đề mới, thêm 1 khối {...} vào mảng 'tests' bên dưới (nhớ dấu phẩy ngăn cách). Trang Soạn đề sẽ tạo sẵn khối này giúp bạn.",
   "tests": [
     {
       "id": "ket-test-1",
@@ -7,6 +7,13 @@
       "title": "Test 1",
       "examLabel": "A2 Key · Listening",
       "file": "data/ket/ket-test-1.json"
+    },
+    {
+      "id": "ket-test-2",
+      "level": "KET",
+      "title": "Test 2",
+      "examLabel": "A2 Key · Listening",
+      "file": "data/ket/ket-test-2.json"
     },
     {
       "id": "pet-test-1",

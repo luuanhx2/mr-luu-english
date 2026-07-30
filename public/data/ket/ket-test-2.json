@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-2",
+  "level": "KET",
+  "title": "Test 2",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test2-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "What are they going to have for lunch?", "imageUrl": "images/ket/ket-test2-q1.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Which family are Emily's new neighbours?", "imageUrl": "images/ket/ket-test2-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "What was Oscar doing when Isabel phoned him?", "imageUrl": "images/ket/ket-test2-q3.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Why didn't Niesha go to the party?", "imageUrl": "images/ket/ket-test2-q4.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Where's Oliver's phone now?", "imageUrl": "images/ket/ket-test2-q5.jpeg", "correctAnswer": "B" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test2-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a woman telling some students about their visit to the zoo.",
+      "formTitle": "Zoo visit",
+      "formGiven": ["Name of project: Helping"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Animal to draw: {}", "correctAnswer": "tiger" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Time to give animals water: {} a.m.", "correctAnswer": "10:45|10.45|quarter to eleven" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Name of baby lion: {}", "correctAnswer": "Sohatu" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Age of oldest dolphin: {}", "correctAnswer": "37|thirty-seven" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Get free: {}", "correctAnswer": "poster" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test2-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Jasmine talking to her aunt about a camping trip.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Where did Jasmine and her aunt go swimming?",
+          "options": [
+            { "key": "A", "text": "in the sea" },
+            { "key": "B", "text": "in the river" },
+            { "key": "C", "text": "in the lake" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "How did Jasmine feel about sleeping in a tent to start with?",
+          "options": [
+            { "key": "A", "text": "excited" },
+            { "key": "B", "text": "afraid" },
+            { "key": "C", "text": "unhappy" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "What did Jasmine's aunt like cooking?",
+          "options": [
+            { "key": "A", "text": "omelette" },
+            { "key": "B", "text": "steak" },
+            { "key": "C", "text": "pasta" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "Jasmine's aunt thought the campsite",
+          "options": [
+            { "key": "A", "text": "needed a shop." },
+            { "key": "B", "text": "had good showers." },
+            { "key": "C", "text": "was too small." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "Which activity did Jasmine like best?",
+          "options": [
+            { "key": "A", "text": "cycling" },
+            { "key": "B", "text": "fishing" },
+            { "key": "C", "text": "running" }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test2-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl, Teresa, talking to her friend. Who's Teresa waiting for?",
+          "options": [
+            { "key": "A", "text": "a classmate" },
+            { "key": "B", "text": "a member of her family" },
+            { "key": "C", "text": "a teacher" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy phoning his mother. Why is he phoning her?",
+          "options": [
+            { "key": "A", "text": "to ask about something" },
+            { "key": "B", "text": "to give her some news" },
+            { "key": "C", "text": "to say sorry for something" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a new café. How will they find out where the new café is?",
+          "options": [
+            { "key": "A", "text": "They'll ask another friend." },
+            { "key": "B", "text": "They'll check on the internet." },
+            { "key": "C", "text": "They'll look at a poster." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You hear a girl and her dad talking about a boat tour. Why do they decide to go on the boat tour today?",
+          "options": [
+            { "key": "A", "text": "It's cheap today." },
+            { "key": "B", "text": "The weather's good." },
+            { "key": "C", "text": "They know the guide." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy, Hugo, talking to his teacher. What must Hugo do first?",
+          "options": [
+            { "key": "A", "text": "help another teacher" },
+            { "key": "B", "text": "help the school secretary" },
+            { "key": "C", "text": "help another student" }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test2-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear a girl talking to her mum about her friends and their hobbies. What hobby does each friend have?",
+      "example": "Mateo → H (watching movies)",
+      "matchOptions": [
+        { "key": "A", "text": "acting" },
+        { "key": "B", "text": "being in a band" },
+        { "key": "C", "text": "building models" },
+        { "key": "D", "text": "climbing" },
+        { "key": "E", "text": "learning languages" },
+        { "key": "F", "text": "photography" },
+        { "key": "G", "text": "swimming" },
+        { "key": "H", "text": "watching movies" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Hannah", "correctAnswer": "B" },
+        { "questionNumber": 22, "type": "matching", "question": "Christopher", "correctAnswer": "E" },
+        { "questionNumber": 23, "type": "matching", "question": "Samantha", "correctAnswer": "G" },
+        { "questionNumber": 24, "type": "matching", "question": "Andrew", "correctAnswer": "A" },
+        { "questionNumber": 25, "type": "matching", "question": "Grace", "correctAnswer": "F" }
+      ]
+    }
+  ]
+}
