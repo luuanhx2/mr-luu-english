@@ -1,5 +1,5 @@
 {
-  "_huong_dan": "File này liệt kê tất cả đề thi. Mỗi khi thêm 1 đề mới, thêm 1 khối {...} vào mảng 'tests' bên dưới (nhớ dấu phẩy ngăn cách). Trang Soạn đề sẽ tạo sẵn khối này giúp bạn.",
+  "_huong_dan": "File này liệt kê tất cả đề thi. Mỗi khi thêm 1 đề mới, thêm 1 khối {...} vào mảng 'tests' bên dưới (nhớ dấu phẩy ngăn cách).",
   "tests": [
     {
       "id": "ket-test-1",
@@ -14,6 +14,13 @@
       "title": "Test 1",
       "examLabel": "B1 Preliminary · Listening",
       "file": "data/pet/pet-test-1.json"
+    },
+    {
+      "id": "ielts-test-1",
+      "level": "IELTS",
+      "title": "Test 1",
+      "examLabel": "IELTS · Listening",
+      "file": "data/ielts/ielts-test-1.json"
     }
   ]
 }
