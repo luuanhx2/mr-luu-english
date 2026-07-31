@@ -58,6 +58,13 @@
       "file": "data/ket/ket-test-8.json"
     },
     {
+      "id": "ket-test-9",
+      "level": "KET",
+      "title": "Test 9",
+      "examLabel": "A2 Key · Listening",
+      "file": "data/ket/ket-test-9.json"
+    },
+    {
       "id": "pet-test-1",
       "level": "PET",
       "title": "Test 1",

@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-9",
+  "level": "KET",
+  "title": "Test 9",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test9-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "What time is Margaret's train?", "imageUrl": "images/ket/ket-test9-q1.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What will Mary bring to the party?", "imageUrl": "images/ket/ket-test9-q2.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "What will Roberta do this afternoon?", "imageUrl": "images/ket/ket-test9-q3.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "What will the friends eat for dinner?", "imageUrl": "images/ket/ket-test9-q4.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What job does Kevin's son have?", "imageUrl": "images/ket/ket-test9-q5.jpeg", "correctAnswer": "A" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test9-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a woman talking to a group of students about student flats.",
+      "formTitle": "Information about Student Flats",
+      "formGiven": ["Number of students sharing type 1 flat: 10"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Longest term: {} weeks long", "correctAnswer": "13|thirteen" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Price of type 1 flat for final term: £ {}", "correctAnswer": "1,045|1045" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Number of students sharing type 2 flat: {}", "correctAnswer": "4|four" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Term 1 dates for flats: {} September - 20 December", "correctAnswer": "15|15th|fifteenth" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Monday-Thursday: Students must be {} after 10 p.m.", "correctAnswer": "quiet" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test9-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Peter talking to his friend Linda about going camping.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Who is Peter going camping with?",
+          "options": [
+            { "key": "A", "text": "colleagues" },
+            { "key": "B", "text": "old school friends" },
+            { "key": "C", "text": "colleagues and old school friends" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "How many nights are Peter and his friends going camping for?",
+          "options": [
+            { "key": "A", "text": "three nights" },
+            { "key": "B", "text": "two nights" },
+            { "key": "C", "text": "one night" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "Peter",
+          "options": [
+            { "key": "A", "text": "thinks his house is dirty." },
+            { "key": "B", "text": "wants a cleaner for his house." },
+            { "key": "C", "text": "needs somebody to paint his bathroom." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "How many tents are they taking?",
+          "options": [
+            { "key": "A", "text": "one" },
+            { "key": "B", "text": "two" },
+            { "key": "C", "text": "four" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "Peter and his friends",
+          "options": [
+            { "key": "A", "text": "will have simple breakfasts in cafes and restaurants." },
+            { "key": "B", "text": "will have their own milk and cereal for breakfast." },
+            { "key": "C", "text": "will pay for three meals a day." }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test9-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear a woman shopping for shoes. Which pair of shoes does she buy?",
+          "options": [
+            { "key": "A", "text": "the brown ones" },
+            { "key": "B", "text": "the green ones" },
+            { "key": "C", "text": "the black ones" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a woman describing something she lost. What did she lose?",
+          "options": [
+            { "key": "A", "text": "a suitcase" },
+            { "key": "B", "text": "a purse" },
+            { "key": "C", "text": "a handbag" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking. What is Paul going to make?",
+          "options": [
+            { "key": "A", "text": "a cake" },
+            { "key": "B", "text": "an omelette" },
+            { "key": "C", "text": "fried eggs" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a man talking about his holiday to his friend. What animal did he ride?",
+          "options": [
+            { "key": "A", "text": "an elephant" },
+            { "key": "B", "text": "a camel" },
+            { "key": "C", "text": "a horse" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a woman talking to her friend. Why is she upset?",
+          "options": [
+            { "key": "A", "text": "Jean was not at home." },
+            { "key": "B", "text": "The taxi was expensive." },
+            { "key": "C", "text": "The taxi driver didn't help with her luggage." }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test9-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear John and Fiona talking about what to do with the family at the activity centre. What activity will each person do?",
+      "example": "John → B (golf)",
+      "matchOptions": [
+        { "key": "A", "text": "tennis" },
+        { "key": "B", "text": "golf" },
+        { "key": "C", "text": "football" },
+        { "key": "D", "text": "swimming" },
+        { "key": "E", "text": "horse riding" },
+        { "key": "F", "text": "table tennis" },
+        { "key": "G", "text": "badminton" },
+        { "key": "H", "text": "no activity" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Billy", "correctAnswer": "D" },
+        { "questionNumber": 22, "type": "matching", "question": "Fred", "correctAnswer": "A" },
+        { "questionNumber": 23, "type": "matching", "question": "Fiona", "correctAnswer": "H" },
+        { "questionNumber": 24, "type": "matching", "question": "Keith", "correctAnswer": "C" },
+        { "questionNumber": 25, "type": "matching", "question": "Shona", "correctAnswer": "G" }
+      ]
+    }
+  ]
+}
