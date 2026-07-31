@@ -1,0 +1,189 @@
+{
+  "id": "pet-test-3",
+  "level": "PET",
+  "title": "Test 3",
+  "examLabel": "B1 Preliminary · Listening",
+  "totalTimeMinutes": 35,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/pet/pet-test3-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "Which was the girl's favourite film?", "imageUrl": "images/pet/pet-test3-q1.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What did the boy see at the transport museum?", "imageUrl": "images/pet/pet-test3-q2.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Where does the girl hope her family will go on holiday?", "imageUrl": "images/pet/pet-test3-q3.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "What did the girl lose at the show?", "imageUrl": "images/pet/pet-test3-q4.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Which appointment did the boy have today?", "imageUrl": "images/pet/pet-test3-q5.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 6, "type": "multiple_choice_image", "question": "Which book can the girl collect today?", "imageUrl": "images/pet/pet-test3-q6.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 7, "type": "multiple_choice_image", "question": "Which sport is the boy going to try?", "imageUrl": "images/pet/pet-test3-q7.jpeg", "correctAnswer": "C" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/pet/pet-test3-part2.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a play. Why did the girl leave the theatre early?",
+          "options": [
+            { "key": "A", "text": "She felt unwell." },
+            { "key": "B", "text": "She hated the play." },
+            { "key": "C", "text": "She had an appointment." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 9,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a school party. They agree that",
+          "options": [
+            { "key": "A", "text": "there was lots of variety." },
+            { "key": "B", "text": "everything there was tasty." },
+            { "key": "C", "text": "the food they took was popular." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 10,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a soccer match they both watched on TV. Why was the boy disappointed?",
+          "options": [
+            { "key": "A", "text": "The team he supports lost." },
+            { "key": "B", "text": "His favourite player was injured." },
+            { "key": "C", "text": "The quality of the match was bad." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a new science building at their school. They agree that",
+          "options": [
+            { "key": "A", "text": "it looks great from the outside." },
+            { "key": "B", "text": "the equipment is very good." },
+            { "key": "C", "text": "it is very well decorated." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about a blog she has started writing. How does she feel about it?",
+          "options": [
+            { "key": "A", "text": "delighted that other people like it" },
+            { "key": "B", "text": "surprised it was so easy to set up" },
+            { "key": "C", "text": "satisfied with its appearance" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl telling her friend about learning Chinese. The boy suggests that the girl should",
+          "options": [
+            { "key": "A", "text": "use websites to help her." },
+            { "key": "B", "text": "find a conversation class." },
+            { "key": "C", "text": "buy a good textbook." }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/pet/pet-test3-part3.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time. You will hear a student giving some information to his class about an acting club he's a member of.",
+      "formTitle": "My acting club",
+      "formGiven": ["Teacher:", "Second part - practising performance skills"],
+      "questions": [
+        { "questionNumber": 14, "type": "gap_fill", "question": "Appeared on TV as a {}", "correctAnswer": "farmer" },
+        { "questionNumber": 15, "type": "gap_fill", "question": "Has mostly appeared in {} shows", "correctAnswer": "comedy" },
+        { "questionNumber": 16, "type": "gap_fill", "question": "Sessions: First part - using your {} well", "correctAnswer": "voice" },
+        { "questionNumber": 17, "type": "gap_fill", "question": "Sessions take place at the {}", "correctAnswer": "university" },
+        { "questionNumber": 18, "type": "gap_fill", "question": "Acting Club play is called {}", "correctAnswer": "Passenger|The Passenger" },
+        { "questionNumber": 19, "type": "gap_fill", "question": "First performance - on {}", "correctAnswer": "20th July|20 July|twentieth July" }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/pet/pet-test3-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear an interview with a girl called Jasmine, talking about her experiences of flying a plane.",
+      "questions": [
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "Why did Jasmine decide to try a flying experience day?",
+          "options": [
+            { "key": "A", "text": "Someone recommended it." },
+            { "key": "B", "text": "She wants to become a pilot." },
+            { "key": "C", "text": "To see her area from high up." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 21,
+          "type": "multiple_choice_text",
+          "question": "How did Jasmine feel at the beginning of the flying experience day?",
+          "options": [
+            { "key": "A", "text": "nervous about making mistakes" },
+            { "key": "B", "text": "worried about how small the plane was" },
+            { "key": "C", "text": "disappointed with the arrangements" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 22,
+          "type": "multiple_choice_text",
+          "question": "What did Jasmine think about the training she did before the flight?",
+          "options": [
+            { "key": "A", "text": "It was badly presented." },
+            { "key": "B", "text": "It was done too quickly." },
+            { "key": "C", "text": "Some of it wasn't useful." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 23,
+          "type": "multiple_choice_text",
+          "question": "Jasmine says that during the flight her instructor",
+          "options": [
+            { "key": "A", "text": "said very little." },
+            { "key": "B", "text": "stayed very calm." },
+            { "key": "C", "text": "joked with her a lot." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 24,
+          "type": "multiple_choice_text",
+          "question": "Jasmine says that the flight",
+          "options": [
+            { "key": "A", "text": "made her feel tired." },
+            { "key": "B", "text": "seemed to last a long time." },
+            { "key": "C", "text": "was better than she had hoped." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 25,
+          "type": "multiple_choice_text",
+          "question": "Which experience day would Jasmine like to try most?",
+          "options": [
+            { "key": "A", "text": "horse riding" },
+            { "key": "B", "text": "deep-sea fishing" },
+            { "key": "C", "text": "sports car driving" }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  ]
+}
