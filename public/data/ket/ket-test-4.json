@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-4",
+  "level": "KET",
+  "title": "Test 4",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test4-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "How much did the boy's football shirt cost?", "imageUrl": "images/ket/ket-test4-q1.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What did Sophie enjoy doing most at the weekend?", "imageUrl": "images/ket/ket-test4-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Where did Paul stay on holiday this year?", "imageUrl": "images/ket/ket-test4-q3.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Which subject will they study first today?", "imageUrl": "images/ket/ket-test4-q4.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Why was Tina late for school today?", "imageUrl": "images/ket/ket-test4-q5.jpeg", "correctAnswer": "C" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test4-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear Rosie's aunt telling her about a dance competition.",
+      "formTitle": "Dance competition",
+      "formGiven": ["For children from: 13-15"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Date to enter by: {}", "correctAnswer": "12th July|12 July" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Send: {}", "correctAnswer": "video" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Website address: www. {} .com", "correctAnswer": "jittersea" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Place: {}", "correctAnswer": "college" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "First prize: £ {}", "correctAnswer": "175" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test4-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Tommy talking to his friend Olga about their class party.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Which date is the class party?",
+          "options": [
+            { "key": "A", "text": "25th June" },
+            { "key": "B", "text": "28th June" },
+            { "key": "C", "text": "1st July" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "What does Olga think Tommy should wear to the party?",
+          "options": [
+            { "key": "A", "text": "his black jeans" },
+            { "key": "B", "text": "his blue shorts" },
+            { "key": "C", "text": "his green T-shirt" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "What's Olga worried about?",
+          "options": [
+            { "key": "A", "text": "singing at the party" },
+            { "key": "B", "text": "playing the guitar" },
+            { "key": "C", "text": "helping tidy up" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "Why will Tommy arrive at the party late?",
+          "options": [
+            { "key": "A", "text": "He'll have to wait for a lift." },
+            { "key": "B", "text": "There aren't many buses." },
+            { "key": "C", "text": "He wants to play tennis first." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "What's Olga going to take to the party?",
+          "options": [
+            { "key": "A", "text": "some balloons" },
+            { "key": "B", "text": "some paper plates" },
+            { "key": "C", "text": "some food" }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test4-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear two classmates talking together. How did the girl come to school today?",
+          "options": [
+            { "key": "A", "text": "by car" },
+            { "key": "B", "text": "by train" },
+            { "key": "C", "text": "on foot" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking to a man who works at a museum. What's the girl looking for?",
+          "options": [
+            { "key": "A", "text": "her bag" },
+            { "key": "B", "text": "her coat" },
+            { "key": "C", "text": "her folder" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking about learning French. How did he improve his French?",
+          "options": [
+            { "key": "A", "text": "by visiting France" },
+            { "key": "B", "text": "by watching French cartoons" },
+            { "key": "C", "text": "by emailing his French penpal" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking to her aunt about her hobbies. Which hobby does the girl like doing now?",
+          "options": [
+            { "key": "A", "text": "looking after animals" },
+            { "key": "B", "text": "taking photos of animals" },
+            { "key": "C", "text": "collecting toy animals" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a headteacher talking to the whole school. What's new at the school this year?",
+          "options": [
+            { "key": "A", "text": "a cafeteria" },
+            { "key": "B", "text": "a sports hall" },
+            { "key": "C", "text": "a music room" }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test4-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear a boy talking to a friend about the presents he bought during a family trip round Europe. What present did he buy in each country?",
+      "example": "Germany → E (kite)",
+      "matchOptions": [
+        { "key": "A", "text": "backpack" },
+        { "key": "B", "text": "calendar" },
+        { "key": "C", "text": "dictionary" },
+        { "key": "D", "text": "guidebook" },
+        { "key": "E", "text": "kite" },
+        { "key": "F", "text": "mug" },
+        { "key": "G", "text": "photo album" },
+        { "key": "H", "text": "postcards" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Poland", "correctAnswer": "G" },
+        { "questionNumber": 22, "type": "matching", "question": "Switzerland", "correctAnswer": "B" },
+        { "questionNumber": 23, "type": "matching", "question": "Italy", "correctAnswer": "C" },
+        { "questionNumber": 24, "type": "matching", "question": "Spain", "correctAnswer": "F" },
+        { "questionNumber": 25, "type": "matching", "question": "Portugal", "correctAnswer": "A" }
+      ]
+    }
+  ]
+}
