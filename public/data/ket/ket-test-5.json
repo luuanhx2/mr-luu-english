@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-5",
+  "level": "KET",
+  "title": "Test 5",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test5-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "How will Luciana invite her friends to her party?", "imageUrl": "images/ket/ket-test5-q1.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What does Charlie want to borrow from his brother, James?", "imageUrl": "images/ket/ket-test5-q2.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "How will Carol get to her dance class?", "imageUrl": "images/ket/ket-test5-q3.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Which film do they decide to watch first?", "imageUrl": "images/ket/ket-test5-q4.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Which T-shirt does the girl like best?", "imageUrl": "images/ket/ket-test5-q5.jpeg", "correctAnswer": "C" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test5-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a boy leaving a message for a friend about some homework.",
+      "formTitle": "Homework",
+      "formGiven": ["Subject: English"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "What to write: {}", "correctAnswer": "story" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Number of words: {}", "correctAnswer": "250" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Remember to add: {}", "correctAnswer": "photo" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Get ideas from: www. {} .com", "correctAnswer": "collatra" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Date to give to teacher: {}", "correctAnswer": "22nd May|22 May" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test5-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Dan talking to a shop assistant in a sports shop.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Dan thinks plastic skateboards are",
+          "options": [
+            { "key": "A", "text": "cheap." },
+            { "key": "B", "text": "popular." },
+            { "key": "C", "text": "light." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "What colour skateboard does Dan prefer?",
+          "options": [
+            { "key": "A", "text": "purple" },
+            { "key": "B", "text": "yellow" },
+            { "key": "C", "text": "grey" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "The shop assistant says the best skateboard for Dan is about",
+          "options": [
+            { "key": "A", "text": "16 cm wide." },
+            { "key": "B", "text": "18 cm wide." },
+            { "key": "C", "text": "20 cm wide." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "What free gift can Dan get from the shop?",
+          "options": [
+            { "key": "A", "text": "a backpack" },
+            { "key": "B", "text": "some gloves" },
+            { "key": "C", "text": "a scarf" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "When will Dan buy a skateboard?",
+          "options": [
+            { "key": "A", "text": "on Wednesday" },
+            { "key": "B", "text": "on Friday" },
+            { "key": "C", "text": "on Saturday" }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test5-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about eating healthy food. Why are they talking about eating healthy food?",
+          "options": [
+            { "key": "A", "text": "They've just read about it." },
+            { "key": "B", "text": "They've just watched a video about it." },
+            { "key": "C", "text": "They've just listened to a talk about it." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking about his history project. Who gave him some information about it?",
+          "options": [
+            { "key": "A", "text": "a person who works as a guide" },
+            { "key": "B", "text": "a woman who lives near him" },
+            { "key": "C", "text": "a teacher he knows" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about her clothes. Why does she want to buy some new clothes?",
+          "options": [
+            { "key": "A", "text": "to look nice at a party" },
+            { "key": "B", "text": "to go on holiday" },
+            { "key": "C", "text": "to play a new sport" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a teacher talking about a problem. Where is there a problem?",
+          "options": [
+            { "key": "A", "text": "in the playground" },
+            { "key": "B", "text": "in the sports hall" },
+            { "key": "C", "text": "in the cafeteria" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a brother and sister talking about their pet rabbit. What don't they like about having pets?",
+          "options": [
+            { "key": "A", "text": "talking to them" },
+            { "key": "B", "text": "brushing them" },
+            { "key": "C", "text": "giving them food" }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test5-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear a boy talking to a classmate about the things he is going to do next week. What is he going to do on each day?",
+      "example": "Monday → C (go to a party)",
+      "matchOptions": [
+        { "key": "A", "text": "finish a school project" },
+        { "key": "B", "text": "go on a trip" },
+        { "key": "C", "text": "go to a party" },
+        { "key": "D", "text": "help a neighbour" },
+        { "key": "E", "text": "make a meal" },
+        { "key": "F", "text": "send emails" },
+        { "key": "G", "text": "take money to school" },
+        { "key": "H", "text": "visit the city library" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Tuesday", "correctAnswer": "G" },
+        { "questionNumber": 22, "type": "matching", "question": "weekend", "correctAnswer": "B" },
+        { "questionNumber": 23, "type": "matching", "question": "Wednesday", "correctAnswer": "A" },
+        { "questionNumber": 24, "type": "matching", "question": "Thursday", "correctAnswer": "D" },
+        { "questionNumber": 25, "type": "matching", "question": "Friday", "correctAnswer": "E" }
+      ]
+    }
+  ]
+}
