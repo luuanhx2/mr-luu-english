@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-7",
+  "level": "KET",
+  "title": "Test 7",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test7-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "How will David travel?", "imageUrl": "images/ket/ket-test7-q1.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What time will Roger see the dentist?", "imageUrl": "images/ket/ket-test7-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "How much will Vera pay for her lunch?", "imageUrl": "images/ket/ket-test7-q3.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "What will the friends do in the afternoon?", "imageUrl": "images/ket/ket-test7-q4.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What pet will Janet have?", "imageUrl": "images/ket/ket-test7-q5.jpeg", "correctAnswer": "B" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test7-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a woman talking to a group of students about the library.",
+      "formTitle": "Library Information for Students",
+      "formGiven": ["Hours during term time: 24 hours a day"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Hours outside term time: {} - 7.00 p.m.", "correctAnswer": "8.30|8:30|half past eight" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Number of books you can take out: {}", "correctAnswer": "6|six" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Cost of returning CDs and magazines late: £ {} per day", "correctAnswer": "1|one" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Cost of first library card: {}", "correctAnswer": "free" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "To get a card, give in a form and: {}", "correctAnswer": "photo" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test7-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Jane talking to her friend, David, about going to the cinema.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "What does Jane want to see at the cinema?",
+          "options": [
+            { "key": "A", "text": "She doesn't have a clear idea." },
+            { "key": "B", "text": "She wants to see the new James Bond film." },
+            { "key": "C", "text": "She wants to see a love story." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "Robert",
+          "options": [
+            { "key": "A", "text": "can't come to the cinema." },
+            { "key": "B", "text": "likes action films." },
+            { "key": "C", "text": "prefers not to see the James Bond film." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "The sad film",
+          "options": [
+            { "key": "A", "text": "is about two people who die." },
+            { "key": "B", "text": "doesn't sound good to David." },
+            { "key": "C", "text": "is the only choice." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "David thinks",
+          "options": [
+            { "key": "A", "text": "the comedy would be good for children." },
+            { "key": "B", "text": "the comedy is a good choice for everyone." },
+            { "key": "C", "text": "not everyone likes comedies." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "Jane",
+          "options": [
+            { "key": "A", "text": "will meet David at the cinema at about eight." },
+            { "key": "B", "text": "says the film starts at about eight." },
+            { "key": "C", "text": "will go to David's house at about eight." }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test7-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear a woman talking to her friend about a meal at a restaurant. What did she eat?",
+          "options": [
+            { "key": "A", "text": "steak" },
+            { "key": "B", "text": "fish" },
+            { "key": "C", "text": "pasta" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a man explaining why he was late for work. Why was he late?",
+          "options": [
+            { "key": "A", "text": "He woke up late." },
+            { "key": "B", "text": "The train was late." },
+            { "key": "C", "text": "The bus was slow." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about holidays. Where did Anita go?",
+          "options": [
+            { "key": "A", "text": "New York" },
+            { "key": "B", "text": "Florida" },
+            { "key": "C", "text": "Los Angeles" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about shopping. What do they need from the supermarket?",
+          "options": [
+            { "key": "A", "text": "potatoes" },
+            { "key": "B", "text": "carrots" },
+            { "key": "C", "text": "onions" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a man talking on the phone. Why can't he come to the party?",
+          "options": [
+            { "key": "A", "text": "He has to go to work early." },
+            { "key": "B", "text": "His mother is visiting him." },
+            { "key": "C", "text": "His mother had an accident." }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test7-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear Greta talking to Anthony about holidays. What type of holiday will each person go on?",
+      "example": "Anthony → B (walking)",
+      "matchOptions": [
+        { "key": "A", "text": "sightseeing" },
+        { "key": "B", "text": "walking" },
+        { "key": "C", "text": "cycling" },
+        { "key": "D", "text": "camping" },
+        { "key": "E", "text": "no holiday" },
+        { "key": "F", "text": "sailing" },
+        { "key": "G", "text": "skiing" },
+        { "key": "H", "text": "beach" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Julie", "correctAnswer": "H" },
+        { "questionNumber": 22, "type": "matching", "question": "Greta", "correctAnswer": "D" },
+        { "questionNumber": 23, "type": "matching", "question": "John", "correctAnswer": "A" },
+        { "questionNumber": 24, "type": "matching", "question": "Jenny", "correctAnswer": "E" },
+        { "questionNumber": 25, "type": "matching", "question": "Ed", "correctAnswer": "F" }
+      ]
+    }
+  ]
+}
