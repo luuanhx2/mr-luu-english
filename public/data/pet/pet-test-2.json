@@ -1,0 +1,188 @@
+{
+  "id": "pet-test-2",
+  "level": "PET",
+  "title": "Test 2",
+  "examLabel": "B1 Preliminary · Listening",
+  "totalTimeMinutes": 35,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/pet/pet-test2-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "Where did the boy find his mobile phone?", "imageUrl": "images/pet/pet-test2-q1.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Which programme does the girl want to watch?", "imageUrl": "images/pet/pet-test2-q2.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Which animals did the girl enjoy seeing the most?", "imageUrl": "images/pet/pet-test2-q3.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "What will the boy look like in his school play?", "imageUrl": "images/pet/pet-test2-q4.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What's the weather going to be like tomorrow?", "imageUrl": "images/pet/pet-test2-q5.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 6, "type": "multiple_choice_image", "question": "Where does the girl want to meet her friend?", "imageUrl": "images/pet/pet-test2-q6.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 7, "type": "multiple_choice_image", "question": "How much did the book cost?", "imageUrl": "images/pet/pet-test2-q7.jpeg", "correctAnswer": "B" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/pet/pet-test2-part2.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a music performance. The friends agree that",
+          "options": [
+            { "key": "A", "text": "the concert hall was too big." },
+            { "key": "B", "text": "the performance was too short." },
+            { "key": "C", "text": "the musicians needed more practice." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 9,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a play they have seen recently. What surprised the girl about the play?",
+          "options": [
+            { "key": "A", "text": "how young the audience was" },
+            { "key": "B", "text": "how unusual the ending was" },
+            { "key": "C", "text": "how good the acting was" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 10,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy telling a friend about an art course he went on. What did the boy enjoy most about it?",
+          "options": [
+            { "key": "A", "text": "the strong focus on drawing and painting" },
+            { "key": "B", "text": "the teacher's sense of humour" },
+            { "key": "C", "text": "the variety of practice activities" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about getting to school. The girl thinks that walking to school with her friends",
+          "options": [
+            { "key": "A", "text": "is a good way to be sociable." },
+            { "key": "B", "text": "takes longer than walking alone." },
+            { "key": "C", "text": "causes problems for other pedestrians." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking to a friend about his new house. How does the boy feel about it?",
+          "options": [
+            { "key": "A", "text": "pleased with its location" },
+            { "key": "B", "text": "amazed at how big it is" },
+            { "key": "C", "text": "satisfied with how it's decorated" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about a day out with her family. Why did the girl's family choose to go to the river?",
+          "options": [
+            { "key": "A", "text": "There are many things to do." },
+            { "key": "B", "text": "It's close to where they live." },
+            { "key": "C", "text": "It's a good place for a picnic." }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/pet/pet-test2-part3.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one or two words or a number. You will hear a teacher giving some information about a school photography competition.",
+      "formTitle": "School photography competition",
+      "questions": [
+        { "questionNumber": 14, "type": "gap_fill", "question": "The subject of this year's competition is {}", "correctAnswer": "environment|the environment" },
+        { "questionNumber": 15, "type": "gap_fill", "question": "Photos must show some {}", "correctAnswer": "wildlife" },
+        { "questionNumber": 16, "type": "gap_fill", "question": "A local {} will judge the competition", "correctAnswer": "writer" },
+        { "questionNumber": 17, "type": "gap_fill", "question": "First prize is a photography {}", "correctAnswer": "course" },
+        { "questionNumber": 18, "type": "gap_fill", "question": "Send your entries in by {} at the latest", "correctAnswer": "15th February|15 February" },
+        { "questionNumber": 19, "type": "gap_fill", "question": "School secretary's email address is k. {} @school.com", "correctAnswer": "mitchell" }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/pet/pet-test2-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear an interview with a 15-year-old boy called Callum, who runs a successful book review website for teenagers.",
+      "questions": [
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "How did Callum learn about setting up a website?",
+          "options": [
+            { "key": "A", "text": "through lessons at school" },
+            { "key": "B", "text": "by using information online" },
+            { "key": "C", "text": "a family member taught him" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 21,
+          "type": "multiple_choice_text",
+          "question": "Why did Callum decide to set up a book review website?",
+          "options": [
+            { "key": "A", "text": "to develop teenagers' writing skills" },
+            { "key": "B", "text": "to encourage teenagers to read more" },
+            { "key": "C", "text": "to create an online discussion among teenagers" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 22,
+          "type": "multiple_choice_text",
+          "question": "How did Callum feel when his site first went online?",
+          "options": [
+            { "key": "A", "text": "pleased with its quality" },
+            { "key": "B", "text": "certain it would be popular" },
+            { "key": "C", "text": "positive it would achieve its aims" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 23,
+          "type": "multiple_choice_text",
+          "question": "What does Callum say about a typical day?",
+          "options": [
+            { "key": "A", "text": "It's usually full of variety." },
+            { "key": "B", "text": "It's always extremely busy." },
+            { "key": "C", "text": "It's impossible to predict what will happen." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 24,
+          "type": "multiple_choice_text",
+          "question": "When Callum is eighteen he'd like to",
+          "options": [
+            { "key": "A", "text": "work for a big company." },
+            { "key": "B", "text": "study for a degree." },
+            { "key": "C", "text": "run a business." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 25,
+          "type": "multiple_choice_text",
+          "question": "What is Callum's new website for?",
+          "options": [
+            { "key": "A", "text": "using music to help people" },
+            { "key": "B", "text": "presenting new music" },
+            { "key": "C", "text": "learning how to play music" }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ]
+}
