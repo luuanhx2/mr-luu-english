@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-8",
+  "level": "KET",
+  "title": "Test 8",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test8-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "What might Mark look like now?", "imageUrl": "images/ket/ket-test8-q1.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What will the woman probably study next year?", "imageUrl": "images/ket/ket-test8-q2.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "What is David making for dinner?", "imageUrl": "images/ket/ket-test8-q3.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "What time does the exam begin?", "imageUrl": "images/ket/ket-test8-q4.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Where does the woman think she lost her purse?", "imageUrl": "images/ket/ket-test8-q5.jpeg", "correctAnswer": "C" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test8-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a woman talking about her work experience.",
+      "formTitle": "Work experience: Jessica Chapman",
+      "formGiven": ["Job: Online language teacher"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Taught: Students in {}", "correctAnswer": "China" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Lessons: {} hours a week", "correctAnswer": "4|four" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Number of students: three to {}", "correctAnswer": "6|six" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "In lessons: talked, played {} and sang songs", "correctAnswer": "games" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Worked: from {} to September", "correctAnswer": "July" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test8-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Laura talking to her friend John about her trip to Scotland.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Which city didn't Laura visit?",
+          "options": [
+            { "key": "A", "text": "Aberdeen" },
+            { "key": "B", "text": "Glasgow" },
+            { "key": "C", "text": "Dundee" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "How many people went with Laura?",
+          "options": [
+            { "key": "A", "text": "two" },
+            { "key": "B", "text": "three" },
+            { "key": "C", "text": "four" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "They stayed",
+          "options": [
+            { "key": "A", "text": "in guest houses" },
+            { "key": "B", "text": "in hotels" },
+            { "key": "C", "text": "at the universities" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "What does Laura like about St Andrews?",
+          "options": [
+            { "key": "A", "text": "She likes the area." },
+            { "key": "B", "text": "A lot of people live there." },
+            { "key": "C", "text": "The buildings there are old." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "Laura wasn't sure about living in Edinburgh because",
+          "options": [
+            { "key": "A", "text": "it is a big city." },
+            { "key": "B", "text": "there isn't enough to do there." },
+            { "key": "C", "text": "it costs a lot of money to live there." }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test8-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear a teacher talking to a student. What does he say about her work?",
+          "options": [
+            { "key": "A", "text": "Her homework and project were both excellent." },
+            { "key": "B", "text": "Her project was excellent, but her homework was not very good." },
+            { "key": "C", "text": "Her project was good, but her homework was better." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear a man talking to his friend about a photograph. Who is the woman in the photograph?",
+          "options": [
+            { "key": "A", "text": "his sister" },
+            { "key": "B", "text": "his cousin" },
+            { "key": "C", "text": "his aunt" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear a man talking to his friend about a jacket. Why did he buy it?",
+          "options": [
+            { "key": "A", "text": "to look good" },
+            { "key": "B", "text": "to keep warm" },
+            { "key": "C", "text": "to wear to work" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a mother talking to her son. Why is she unhappy?",
+          "options": [
+            { "key": "A", "text": "He made the floor dirty." },
+            { "key": "B", "text": "He didn't tell her where he was." },
+            { "key": "C", "text": "He didn't remember to buy milk." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about their day. What did they do first?",
+          "options": [
+            { "key": "A", "text": "They went shopping." },
+            { "key": "B", "text": "They had something to eat." },
+            { "key": "C", "text": "They went to a museum." }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test8-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear Sally talking to James about different documents and books. Which person do they belong to?",
+      "example": "Dad → F (passport)",
+      "matchOptions": [
+        { "key": "A", "text": "notebook" },
+        { "key": "B", "text": "diary" },
+        { "key": "C", "text": "postcards" },
+        { "key": "D", "text": "menu" },
+        { "key": "E", "text": "bills" },
+        { "key": "F", "text": "passport" },
+        { "key": "G", "text": "photo album" },
+        { "key": "H", "text": "driving licence" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Jane", "correctAnswer": "B" },
+        { "questionNumber": 22, "type": "matching", "question": "Mum", "correctAnswer": "D" },
+        { "questionNumber": 23, "type": "matching", "question": "Granny", "correctAnswer": "H" },
+        { "questionNumber": 24, "type": "matching", "question": "Grandpa", "correctAnswer": "E" },
+        { "questionNumber": 25, "type": "matching", "question": "George", "correctAnswer": "A" }
+      ]
+    }
+  ]
+}
