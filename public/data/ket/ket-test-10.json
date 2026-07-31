@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-10",
+  "level": "KET",
+  "title": "Test 10",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test10-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "Who is Jenny's brother?", "imageUrl": "images/ket/ket-test10-q1.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "What will they have for dinner?", "imageUrl": "images/ket/ket-test10-q2.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Where is Carla's tent?", "imageUrl": "images/ket/ket-test10-q3.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "What is Louis writing to his friend?", "imageUrl": "images/ket/ket-test10-q4.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What did Tom forget to bring to his last exam?", "imageUrl": "images/ket/ket-test10-q5.jpeg", "correctAnswer": "B" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test10-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a student giving a presentation about a famous inventor.",
+      "formTitle": "Thomas Alva Edison",
+      "formGiven": ["Nationality: American", "Moved to New York City: 1869"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Date of birth: 11 {} 1847", "correctAnswer": "February" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Made: $ {} from his inventions", "correctAnswer": "40000|40,000" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "1876: Opened a laboratory in Menlo {}", "correctAnswer": "Park" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "1884: His first wife, Mary Stilwell, {}", "correctAnswer": "died" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Died: 18 October {}", "correctAnswer": "1931" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test10-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Emma talking to her friend Fabio about a fashion show.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "Who did Fabio go to the fashion show with?",
+          "options": [
+            { "key": "A", "text": "He went with some friends." },
+            { "key": "B", "text": "He went with a family member." },
+            { "key": "C", "text": "He went on his own." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "Which day did Emma go to the fashion show?",
+          "options": [
+            { "key": "A", "text": "Friday" },
+            { "key": "B", "text": "Saturday" },
+            { "key": "C", "text": "Sunday" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "Which show didn't Emma see?",
+          "options": [
+            { "key": "A", "text": "the costume show" },
+            { "key": "B", "text": "the children's fashion show" },
+            { "key": "C", "text": "the sports clothes show" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "Who didn't like the sports clothes show?",
+          "options": [
+            { "key": "A", "text": "Fabio and Anna" },
+            { "key": "B", "text": "Emma and Anna" },
+            { "key": "C", "text": "Fabio, Emma and Melissa" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "What is Emma making for the 'Beautiful Plastic' show?",
+          "options": [
+            { "key": "A", "text": "jewellery" },
+            { "key": "B", "text": "shoes and a bag" },
+            { "key": "C", "text": "clothes" }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test10-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about an accident. What did Matt break?",
+          "options": [
+            { "key": "A", "text": "his arm" },
+            { "key": "B", "text": "his head" },
+            { "key": "C", "text": "his leg" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear two people talking about some keys. Where did the man leave them?",
+          "options": [
+            { "key": "A", "text": "in the hall" },
+            { "key": "B", "text": "in the kitchen" },
+            { "key": "C", "text": "in the living room" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking in a restaurant. What does the woman decide to eat?",
+          "options": [
+            { "key": "A", "text": "a cheeseburger" },
+            { "key": "B", "text": "a salad" },
+            { "key": "C", "text": "a pizza" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a man talking to a friend about his grandparents. What are they doing this weekend?",
+          "options": [
+            { "key": "A", "text": "They are having a birthday party." },
+            { "key": "B", "text": "They are meeting their new neighbours." },
+            { "key": "C", "text": "They are moving to a new house." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear a woman talking to a friend about going to the airport. How will she get there?",
+          "options": [
+            { "key": "A", "text": "by bus" },
+            { "key": "B", "text": "by taxi" },
+            { "key": "C", "text": "by train" }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test10-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear Max talking to Ellie about a barbecue. What will each person bring?",
+      "example": "Ellie → G (burgers)",
+      "matchOptions": [
+        { "key": "A", "text": "salad" },
+        { "key": "B", "text": "curry" },
+        { "key": "C", "text": "fruit" },
+        { "key": "D", "text": "drinks" },
+        { "key": "E", "text": "sausages" },
+        { "key": "F", "text": "ice" },
+        { "key": "G", "text": "burgers" },
+        { "key": "H", "text": "desserts" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "George", "correctAnswer": "H" },
+        { "questionNumber": 22, "type": "matching", "question": "Jack", "correctAnswer": "C" },
+        { "questionNumber": 23, "type": "matching", "question": "Max", "correctAnswer": "D" },
+        { "questionNumber": 24, "type": "matching", "question": "Sophie", "correctAnswer": "A" },
+        { "questionNumber": 25, "type": "matching", "question": "Oscar", "correctAnswer": "E" }
+      ]
+    }
+  ]
+}
