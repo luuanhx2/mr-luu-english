@@ -1,0 +1,189 @@
+{
+  "id": "ket-test-6",
+  "level": "KET",
+  "title": "Test 6",
+  "examLabel": "A2 Key · Listening",
+  "totalTimeMinutes": 30,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/ket/ket-test6-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "How did Carrie hurt her leg?", "imageUrl": "images/ket/ket-test6-q1.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Which backpack has the boy bought?", "imageUrl": "images/ket/ket-test6-q2.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Where will Daisy have her birthday party?", "imageUrl": "images/ket/ket-test6-q3.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Which job does Dylan's dad do now?", "imageUrl": "images/ket/ket-test6-q4.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What did they both do yesterday?", "imageUrl": "images/ket/ket-test6-q5.jpeg", "correctAnswer": "A" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/ket/ket-test6-part2.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time. You will hear a teacher telling some students about a class trip.",
+      "formTitle": "Class trip",
+      "formGiven": ["Visit a: castle"],
+      "questions": [
+        { "questionNumber": 6, "type": "gap_fill", "question": "Cost of trip: £ {}", "correctAnswer": "5.60|5:60" },
+        { "questionNumber": 7, "type": "gap_fill", "question": "Day of trip: {}", "correctAnswer": "Saturday" },
+        { "questionNumber": 8, "type": "gap_fill", "question": "Time bus leaves school: {} a.m.", "correctAnswer": "9:10|9.10|ten past nine" },
+        { "questionNumber": 9, "type": "gap_fill", "question": "Bring: {}", "correctAnswer": "camera" },
+        { "questionNumber": 10, "type": "gap_fill", "question": "Name of special exhibition: {}", "correctAnswer": "Modana" }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/ket/ket-test6-part3.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear Nadia and Tom talking about their new school.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "How will Nadia get to their new school?",
+          "options": [
+            { "key": "A", "text": "by bike" },
+            { "key": "B", "text": "by bus" },
+            { "key": "C", "text": "on foot" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "What doesn't Tom like about the school uniform?",
+          "options": [
+            { "key": "A", "text": "the jacket" },
+            { "key": "B", "text": "the shirt" },
+            { "key": "C", "text": "the trousers" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "How many students are there in the new school?",
+          "options": [
+            { "key": "A", "text": "under 500" },
+            { "key": "B", "text": "about 800" },
+            { "key": "C", "text": "more than 1000" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 14,
+          "type": "multiple_choice_text",
+          "question": "Which subject does Nadia like?",
+          "options": [
+            { "key": "A", "text": "chemistry" },
+            { "key": "B", "text": "maths" },
+            { "key": "C", "text": "biology" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 15,
+          "type": "multiple_choice_text",
+          "question": "What will they do on the first day?",
+          "options": [
+            { "key": "A", "text": "have a class quiz" },
+            { "key": "B", "text": "visit the school library" },
+            { "key": "C", "text": "meet all their teachers" }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/ket/ket-test6-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 16,
+          "type": "multiple_choice_text",
+          "question": "You will hear a teacher talking about a trip. What has changed?",
+          "options": [
+            { "key": "A", "text": "the cost" },
+            { "key": "B", "text": "the time" },
+            { "key": "C", "text": "the transport" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 17,
+          "type": "multiple_choice_text",
+          "question": "You will hear two students talking about a problem. Where's the boy's phone?",
+          "options": [
+            { "key": "A", "text": "in the teacher's desk" },
+            { "key": "B", "text": "in his brother's bag" },
+            { "key": "C", "text": "in his house" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 18,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy talking about buying some boots. Why did he buy the boots?",
+          "options": [
+            { "key": "A", "text": "They're comfortable." },
+            { "key": "B", "text": "He likes the colour." },
+            { "key": "C", "text": "They're in fashion." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 19,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about playing tennis. How does she feel after playing?",
+          "options": [
+            { "key": "A", "text": "angry" },
+            { "key": "B", "text": "hungry" },
+            { "key": "C", "text": "tired" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a new teacher. What do they like about the new teacher?",
+          "options": [
+            { "key": "A", "text": "He's clever." },
+            { "key": "B", "text": "He's friendly." },
+            { "key": "C", "text": "He's famous." }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "audioUrl": "audio/ket/ket-test6-part5.mp3",
+      "allowedPlays": 2,
+      "layout": "matching",
+      "instruction": "For each question, choose the correct answer. You will hear a girl talking to her uncle about the books she has read at school. How does she feel about each book?",
+      "example": "The Delay → H (useful)",
+      "matchOptions": [
+        { "key": "A", "text": "boring" },
+        { "key": "B", "text": "funny" },
+        { "key": "C", "text": "good beginning" },
+        { "key": "D", "text": "hard to understand" },
+        { "key": "E", "text": "sad" },
+        { "key": "F", "text": "scary" },
+        { "key": "G", "text": "too short" },
+        { "key": "H", "text": "useful" }
+      ],
+      "questions": [
+        { "questionNumber": 21, "type": "matching", "question": "Crunch", "correctAnswer": "G" },
+        { "questionNumber": 22, "type": "matching", "question": "My Island", "correctAnswer": "B" },
+        { "questionNumber": 23, "type": "matching", "question": "Dangerous Animals", "correctAnswer": "D" },
+        { "questionNumber": 24, "type": "matching", "question": "The Invitation", "correctAnswer": "E" },
+        { "questionNumber": 25, "type": "matching", "question": "Skating Star", "correctAnswer": "C" }
+      ]
+    }
+  ]
+}
