@@ -93,6 +93,13 @@
       "file": "data/pet/pet-test-3.json"
     },
     {
+      "id": "pet-test-4",
+      "level": "PET",
+      "title": "Test 4",
+      "examLabel": "B1 Preliminary · Listening",
+      "file": "data/pet/pet-test-4.json"
+    },
+    {
       "id": "ielts-test-1",
       "level": "IELTS",
       "title": "Test 1",

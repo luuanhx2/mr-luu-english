@@ -1,0 +1,188 @@
+{
+  "id": "pet-test-4",
+  "level": "PET",
+  "title": "Test 4",
+  "examLabel": "B1 Preliminary · Listening",
+  "totalTimeMinutes": 35,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/pet/pet-test4-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "Which coat did the girl buy?", "imageUrl": "images/pet/pet-test4-q1.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Which musical instrument would the boy prefer to learn?", "imageUrl": "images/pet/pet-test4-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "What does the girl miss about her old apartment?", "imageUrl": "images/pet/pet-test4-q3.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Which sport does the boy not do any more?", "imageUrl": "images/pet/pet-test4-q4.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "Who has won the school poetry competition?", "imageUrl": "images/pet/pet-test4-q5.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 6, "type": "multiple_choice_image", "question": "Which programme is on TV next?", "imageUrl": "images/pet/pet-test4-q6.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 7, "type": "multiple_choice_image", "question": "What present is the girl going to buy for her mum's birthday?", "imageUrl": "images/pet/pet-test4-q7.jpeg", "correctAnswer": "C" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/pet/pet-test4-part2.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about travelling into the town centre. Why does the girl prefer taking the bus to the town centre?",
+          "options": [
+            { "key": "A", "text": "There's a bus stop near her home." },
+            { "key": "B", "text": "She meets someone she knows on it." },
+            { "key": "C", "text": "The service is very frequent." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 9,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a music video they've seen. The friends agree that",
+          "options": [
+            { "key": "A", "text": "the song is excellent." },
+            { "key": "B", "text": "the dancing is original." },
+            { "key": "C", "text": "the video is well made." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 10,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about buying a mobile phone. The boy thinks the girl should",
+          "options": [
+            { "key": "A", "text": "get the newest model." },
+            { "key": "B", "text": "go to the phone shop." },
+            { "key": "C", "text": "look at lots of reviews." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about school. The girl is feeling pleased because she",
+          "options": [
+            { "key": "A", "text": "was given a reward for her school work." },
+            { "key": "B", "text": "was chosen to play in a sports match." },
+            { "key": "C", "text": "got a high mark for her homework." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy telling his friend about a family visit to some relatives. How did he feel about it?",
+          "options": [
+            { "key": "A", "text": "worried that he annoyed someone" },
+            { "key": "B", "text": "upset that they stayed so long" },
+            { "key": "C", "text": "sorry when they had to leave" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a new swimming pool. What did the girl like best about it?",
+          "options": [
+            { "key": "A", "text": "The water is very warm." },
+            { "key": "B", "text": "There are fun things to do." },
+            { "key": "C", "text": "Lots of young people use it." }
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/pet/pet-test4-part3.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time. You will hear a student called Matilde giving a presentation to her class about a science museum she visited.",
+      "formTitle": "Science museum visit",
+      "questions": [
+        { "questionNumber": 14, "type": "gap_fill", "question": "Matilde's favourite room contained displays about {}", "correctAnswer": "energy" },
+        { "questionNumber": 15, "type": "gap_fill", "question": "The {} exhibition is currently closed", "correctAnswer": "health" },
+        { "questionNumber": 16, "type": "gap_fill", "question": "Matilde made a {} at the museum", "correctAnswer": "rocket" },
+        { "questionNumber": 17, "type": "gap_fill", "question": "The shop had a really good range of {}", "correctAnswer": "chemistry sets" },
+        { "questionNumber": 18, "type": "gap_fill", "question": "The guided tour lasts for {} minutes", "correctAnswer": "80|eighty" },
+        { "questionNumber": 19, "type": "gap_fill", "question": "Visitors must use the entrance on {} Road", "correctAnswer": "lockhart" }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/pet/pet-test4-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear an interview with a 17-year-old boy called Erik who went cycling across the USA with his dad.",
+      "questions": [
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "Erik and his dad wanted to do a long cycle ride to",
+          "options": [
+            { "key": "A", "text": "make money for charity." },
+            { "key": "B", "text": "break their usual routine." },
+            { "key": "C", "text": "spend lots of time together." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 21,
+          "type": "multiple_choice_text",
+          "question": "Why did they choose to cycle in the USA and not in other countries?",
+          "options": [
+            { "key": "A", "text": "To avoid difficulties with language." },
+            { "key": "B", "text": "They thought it would be safer." },
+            { "key": "C", "text": "It was easier to organise." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 22,
+          "type": "multiple_choice_text",
+          "question": "How did Erik feel as they were setting off?",
+          "options": [
+            { "key": "A", "text": "surprised at how relaxed they were" },
+            { "key": "B", "text": "excited about all the things they'd see" },
+            { "key": "C", "text": "nervous they wouldn't succeed" }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 23,
+          "type": "multiple_choice_text",
+          "question": "Erik's favourite days were those on which",
+          "options": [
+            { "key": "A", "text": "they didn't cycle as far as usual." },
+            { "key": "B", "text": "the weather was warm and dry." },
+            { "key": "C", "text": "they had a chance to be sociable." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 24,
+          "type": "multiple_choice_text",
+          "question": "Erik says that during the ride, he and his dad",
+          "options": [
+            { "key": "A", "text": "talked about many personal issues." },
+            { "key": "B", "text": "became comfortable with silence." },
+            { "key": "C", "text": "disagreed about many things." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 25,
+          "type": "multiple_choice_text",
+          "question": "In the future, Erik plans to",
+          "options": [
+            { "key": "A", "text": "start taking part in races." },
+            { "key": "B", "text": "go on another long ride." },
+            { "key": "C", "text": "only cycle during his free time." }
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ]
+}
