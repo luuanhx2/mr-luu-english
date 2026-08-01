@@ -37,7 +37,7 @@ export const CONFIG = {
   //  Dán đường link "Web App" bạn lấy được sau khi deploy Google Apps Script.
   //  (Xem file HUONG-DAN-GOOGLE-SHEET.md để biết cách lấy link này.)
   //  Nếu để trống '' thì app vẫn chạy nhưng KHÔNG gửi kết quả đi đâu cả.
-  googleSheetUrl: '',
+  googleSheetUrl: 'https://script.google.com/macros/s/AKfy....../exec',
 
   // --- 4. MẬT KHẨU TRANG SOẠN ĐỀ (Admin) --------------------------------
   //  Chỉ mình bạn biết. Học sinh không vào được trang Soạn đề nếu không có.
