@@ -1,0 +1,188 @@
+{
+  "id": "pet-test-5",
+  "level": "PET",
+  "title": "Test 5",
+  "examLabel": "B1 Preliminary · Listening",
+  "totalTimeMinutes": 35,
+  "parts": [
+    {
+      "partNumber": 1,
+      "audioUrl": "audio/pet/pet-test5-part1.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer (A, B or C).",
+      "questions": [
+        { "questionNumber": 1, "type": "multiple_choice_image", "question": "Where is the boy's family going to eat?", "imageUrl": "images/pet/pet-test5-q1.jpeg", "correctAnswer": "A" },
+        { "questionNumber": 2, "type": "multiple_choice_image", "question": "Which lesson does the girl have next?", "imageUrl": "images/pet/pet-test5-q2.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 3, "type": "multiple_choice_image", "question": "Where has the boy just been on holiday?", "imageUrl": "images/pet/pet-test5-q3.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 4, "type": "multiple_choice_image", "question": "Which work experience would the girl like to try?", "imageUrl": "images/pet/pet-test5-q4.jpeg", "correctAnswer": "B" },
+        { "questionNumber": 5, "type": "multiple_choice_image", "question": "What did the boy leave at his friend's house?", "imageUrl": "images/pet/pet-test5-q5.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 6, "type": "multiple_choice_image", "question": "Which painting did the girl like best?", "imageUrl": "images/pet/pet-test5-q6.jpeg", "correctAnswer": "C" },
+        { "questionNumber": 7, "type": "multiple_choice_image", "question": "Where will the students' tour of the town end?", "imageUrl": "images/pet/pet-test5-q7.jpeg", "correctAnswer": "B" }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "audioUrl": "audio/pet/pet-test5-part2.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "type": "multiple_choice_text",
+          "question": "You will hear a boy telling his friend about a snowboarding trip. What problem did the boy have on the trip?",
+          "options": [
+            { "key": "A", "text": "He damaged some equipment." },
+            { "key": "B", "text": "He injured himself." },
+            { "key": "C", "text": "He became ill." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 9,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about the new library at their school. The girl thinks that",
+          "options": [
+            { "key": "A", "text": "the staff are helpful." },
+            { "key": "B", "text": "there should be more books." },
+            { "key": "C", "text": "it's a good place to do homework." }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 10,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a new clothes shop. They agree the shop would be better if",
+          "options": [
+            { "key": "A", "text": "the assistants were more friendly." },
+            { "key": "B", "text": "there was more choice of clothes." },
+            { "key": "C", "text": "it was in the town centre." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 11,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about a new classmate. The boy thinks the new classmate",
+          "options": [
+            { "key": "A", "text": "is very clever." },
+            { "key": "B", "text": "likes playing sport." },
+            { "key": "C", "text": "talks too much." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 12,
+          "type": "multiple_choice_text",
+          "question": "You will hear a girl talking about her big brother going away to college. How does she feel about it?",
+          "options": [
+            { "key": "A", "text": "pleased there's less noise" },
+            { "key": "B", "text": "surprised that she's so sad" },
+            { "key": "C", "text": "upset he's gone so far away" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 13,
+          "type": "multiple_choice_text",
+          "question": "You will hear two friends talking about playing tennis. The boy wants the girl to",
+          "options": [
+            { "key": "A", "text": "practise with him regularly." },
+            { "key": "B", "text": "recommend a tennis coach." },
+            { "key": "C", "text": "teach him some new techniques." }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "audioUrl": "audio/pet/pet-test5-part3.mp3",
+      "allowedPlays": 2,
+      "layout": "form",
+      "instruction": "For each question, write the correct answer in the gap. Write one or two words or a number or a date or a time. You will hear a teacher giving his students information about a school trip to a farm.",
+      "formTitle": "School trip to farm",
+      "questions": [
+        { "questionNumber": 14, "type": "gap_fill", "question": "Meeting place: 8 a.m. next to the {}", "correctAnswer": "school gate" },
+        { "questionNumber": 15, "type": "gap_fill", "question": "Need to bring: a {}", "correctAnswer": "drink" },
+        { "questionNumber": 16, "type": "gap_fill", "question": "Morning activity: feeding the {}", "correctAnswer": "lambs" },
+        { "questionNumber": 17, "type": "gap_fill", "question": "Afternoon activity: {}", "correctAnswer": "climbing" },
+        { "questionNumber": 18, "type": "gap_fill", "question": "Return to school at: {}", "correctAnswer": "4.15|4:15" },
+        { "questionNumber": 19, "type": "gap_fill", "question": "For more information: www. {} .farm.com", "correctAnswer": "caffertys" }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "audioUrl": "audio/pet/pet-test5-part4.mp3",
+      "allowedPlays": 2,
+      "instruction": "For each question, choose the correct answer. You will hear an interview with a young hairdresser called Carlotta.",
+      "questions": [
+        {
+          "questionNumber": 20,
+          "type": "multiple_choice_text",
+          "question": "Carlotta first became interested in cutting people's hair when she saw",
+          "options": [
+            { "key": "A", "text": "a hairdressing magazine." },
+            { "key": "B", "text": "a cartoon character doing it." },
+            { "key": "C", "text": "a friend having it done." }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 21,
+          "type": "multiple_choice_text",
+          "question": "The first hair that Carlotta cut belonged to",
+          "options": [
+            { "key": "A", "text": "her father." },
+            { "key": "B", "text": "her sister." },
+            { "key": "C", "text": "her mother." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 22,
+          "type": "multiple_choice_text",
+          "question": "At college, Carlotta's teachers said she should",
+          "options": [
+            { "key": "A", "text": "talk to customers more." },
+            { "key": "B", "text": "spend more time planning." },
+            { "key": "C", "text": "improve her cutting technique." }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 23,
+          "type": "multiple_choice_text",
+          "question": "How did Carlotta feel during the Young Hairdresser competition?",
+          "options": [
+            { "key": "A", "text": "sure she would lose" },
+            { "key": "B", "text": "angry with the model" },
+            { "key": "C", "text": "confused by the rules" }
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 24,
+          "type": "multiple_choice_text",
+          "question": "What does Carlotta say is the biggest benefit of working for a well-known company?",
+          "options": [
+            { "key": "A", "text": "meeting famous people" },
+            { "key": "B", "text": "making plenty of money" },
+            { "key": "C", "text": "gaining a variety of experience" }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 25,
+          "type": "multiple_choice_text",
+          "question": "What would Carlotta like to do next?",
+          "options": [
+            { "key": "A", "text": "open a hairdressing school" },
+            { "key": "B", "text": "create a range of beauty products" },
+            { "key": "C", "text": "start a business in another country" }
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    }
+  ]
+}
