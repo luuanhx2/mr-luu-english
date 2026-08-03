@@ -62,19 +62,14 @@ export default function Welcome() {
             placeholder="Ví dụ: Nguyễn Văn An"
             onKeyDown={(e) => e.key === 'Enter' && handleStart()}
           />
-
           <label style={{ ...labelStyle, marginTop: 16 }}>Lớp</label>
-          <select
+          <input
             style={inputStyle}
             value={className}
             onChange={(e) => { setClassName(e.target.value); setError('') }}
-          >
-            <option value="">— Chọn lớp của em —</option>
-            {CONFIG.classList.map((c) => (
-              <option key={c} value={c}>{c}</option>
-            ))}
-          </select>
-
+            placeholder="Ví dụ: KET 1"
+            onKeyDown={(e) => e.key === 'Enter' && handleStart()}
+          />
           {error && (
             <div style={{ color: '#dc2626', fontSize: 13.5, marginTop: 14, fontWeight: 500 }}>
               {error}
